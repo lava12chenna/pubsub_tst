@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "summer-nucleus-267214",
+  "private_key_id": "567b3ceec2e221fefd61527e4ad3b126171350cf",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCVHZ756vuBNq10\noTQM9JfNfji7D7VU19u5JR1DRMBU/pl902SsA+barQY6smShNehMXwuxGkPt4mnB\nRiWxO+fsloKyJ4SVRwVe6ZSOQ+SobocN1NYOO59dbtE6ZONAnwTW+LBD33TpWjMD\nNumIOw+EjC+IvWjflmCQ/mObBxSksrTmbpPxIjRPeQ4HBuNGuAgaa2OKAly8P42x\nlGfjScPy/+71UE4saNZ98euMix++Oav/M5iVaZLinLKUMeTGCp/sQ5Mn6DxG/LjT\ny7HZOgVHHlj/+n7cntF/6s3So11jcX35ZPlgaXbv7OyzLAkeYrHj1/kLrM63PBj5\nxyuvUh8fAgMBAAECggEAGwSXcfvwHwzrp8avmitVOAAHQmmJtvo3jxfY8f/Kg3vw\nDrrXMk2wre2Mw+Tf08/jK7dK9IdoSHluJP1TRgYvMxBgVOxRGwUXxYc4CgDmNNh1\n8v0d3c1SxkiWc2ilPmexpkvAEEQ0ODXGKW5xKORenusRj8qV7nEeRRc6r/O7+005\nI7jCrVEPYQNHbiQ/imVyRL4gofWXkvbA4bPdCiPf4qFivGOxYfY1IWOzrO+I+Ovc\nwOQe2Trf/u5ZwCa3Cs4y+YkyVH6Y4DZmH7MxbgFJ9zDZL8FAVksF5EmYngkQ9MRF\nfCpXJXlAZW8itfXBPBdRtsCjy9ka7Xe+sn4V9eBs8QKBgQDIVlnV0fY/6u+fYdpQ\nCaviyizq7R+eGnsmD3tY2EBjxRzXqLidvf/e9OnkMN0Dc7tQQ+UsscRIAF2RjMs1\nf68Gpvvy5abpIN2/SNiOB21zNtSYvHRw7LlQloAKvj0LZ1bySfhPJJ1IiDnSO22a\nNqXPJsL2rDx8T4nmdqJ0dmjpUQKBgQC+i/cnx6CHmDtAHLxCuVhR+q3sDC2eHrnK\nWhYRUUbs78JxbjyQpnjEfiMSpuevbkYj1cL+2Rk93c8NOiP3fxLledYh8RD4oKqE\nhPtfYdmtz2vyKM2H2eYU6AFUrJnTDNbVtXFxviTxEPfGnNusbTUMQmIfwfmzDTXH\nJPJoxUhlbwKBgQCeN4QvV+iwxiyEpVUzDNBRBfa/epIT3ToQ7v0tR2xi3xNORpO3\nEIz5Wlc1vlluFoKCe3yM9b/cVV2QS69ZCwQBrvMf+7r8Ntap8TAFy1vnOBBip8MW\nQ/5+5L0uvtubG/wQ0dZnOrV0yRFRNVn0BuCgXy5ufcwvKOnxtxPKApIMYQKBgD2I\nnawu/1xKgPfXT8SMbkUrGvdbh2/EpGMAbJfzE2B4nOZcnxpnaCCsS08+rxssFWKF\nKY97NHeSJcczu2G1m7iXe9tCKiTgXbCl8TeANfe3QDjXjGgOqgqeUa+yfYp2Xvps\nudHtgaiHvjxZc2dfbP4kgeOXlLeJ0JAbEl1bOGHpAoGBAKTYRrug9vddGg3tYpng\ntZZF4tUCTb+OcM+FStSobILTLcekL6MU3GZ48V7/uZcGU/VODGixOoBagrjv7rEb\nP3jwHevNK3O94QIf+am2k85taz1SN+y2KztFhM/jogdgWue9lpzBfNTM06+7qpUk\nZ7BS5HeB3rPGaTxo4lvGyxkS\n-----END PRIVATE KEY-----\n",
+  "client_email": "pubsub-sbs@summer-nucleus-267214.iam.gserviceaccount.com",
+  "client_id": "111575809731847809658",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pubsub-sbs%40summer-nucleus-267214.iam.gserviceaccount.com"
+}
